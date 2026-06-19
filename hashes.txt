@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Piel marchita
+
+This log tracks the cryptographic history and versioning for the song **Piel marchita** (piel-marchita).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T02:58:12.344770 | `v1` | `104ad5efafa0ecd3536ed5cb1edde47c77f24c064bf259936a2b5596ffe3efc5` | `cac586ef57aa0bbfd890f0a53db896118a171f66f19b37def54831bc7e3440cf` | `2026-06-20_piel-marchita-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
