@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Piel marchita |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-marchita/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Piel marchita](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-marchita/) |
+| **Get License** | [Request Licensing for Piel marchita](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-marchita/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Baby, me dicen tus ojos que quieres pecar
-> I know that you want it, no lo pienses más
-> Esa piel marchita la voy a curar
-> Bailando en lo oscuro hasta no respirar
+> Piel marchita, dame tu calor
+> Bajo la luna, siento tu sabor
+> Tus labios llaman, no hay temor
+> Esta noche, solo tú y yo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
