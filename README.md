@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-marchita/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Piel marchita](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-marchita/) |
+| **Get License** | [Get a Licensing Quote for Piel marchita](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-marchita/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, me dicen tus ojos que quieres pecar
+> I know that you want it, no lo pienses más
+> Esa piel marchita la voy a curar
+> Bailando en lo oscuro hasta no respirar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
