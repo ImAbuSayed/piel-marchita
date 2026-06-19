@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-marchita/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Piel marchita](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-marchita/) |
+| **Get License** | [Secure Licensing Rights for Piel marchita](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-marchita/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3770)
+- [Telegram](https://t.me/AbuSayedMusic/3786)
 
 ---
 
